@@ -26,7 +26,7 @@ pause() {
 # 说明
 echo
 echo -e "${red}本脚本为2022-11-1存档${none}"
-echo -e "最新版本 ${cyan}https://github.com/crazypeace/v2ray-wss${none}"
+echo -e "最新版本 ${cyan}https://github.com/crazypeace/v2ray_wss${none}"
 echo -e "有问题加群 ${cyan}https://t.me/+D8aqonnCR3s1NTRl${none}"
 echo "----------------------------------------------------------------"
 echo -e "$yellow此脚本仅兼容于Debian 10+系统. 如果你的系统不符合,请Ctrl+C退出脚本$none"
